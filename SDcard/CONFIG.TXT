@@ -1,7 +1,7 @@
-{"network":{"ip":"192.168.100.111","netmask":"255.255.255.0","gateway":"192.168.100.1"}}
-{"mqtt":{"broker":"95.111.195.76","mqttId":"NULL","username":"NULL","pwd":"NULL","port":1883}}
+{"network":{"ip":"NETWORK_IP","netmask":"NETWORK_NETMASK","gateway":"NETWORK_GATEWAY"}}
+{"mqtt":{"broker":"SERVER_IP","mqttId":"NULL","username":"NULL","pwd":"NULL","port":MQTT_PORT}}
 {"port0":{"baud":8,"databits":0,"stopbits":0,"parity":0}}
 {"port1":{"baud":8,"databits":0,"stopbits":0,"parity":0}}
-{"apikey":"611237d3643002b5b3f69ce6"}
+{"apikey":"APIKEY"}
 {"timeout":60}
 {"telemetry":1}
