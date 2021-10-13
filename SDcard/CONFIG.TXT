@@ -1,0 +1,7 @@
+{"network":{"ip":"192.168.100.111","netmask":"255.255.255.0","gateway":"192.168.100.1"}}
+{"mqtt":{"broker":"95.111.195.76","mqttId":"NULL","username":"NULL","pwd":"NULL","port":1883}}
+{"port0":{"baud":8,"databits":0,"stopbits":0,"parity":0}}
+{"port1":{"baud":8,"databits":0,"stopbits":0,"parity":0}}
+{"apikey":"611237d3643002b5b3f69ce6"}
+{"timeout":60}
+{"telemetry":1}
